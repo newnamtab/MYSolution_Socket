@@ -1,0 +1,5 @@
+C:\Users\Søren\Documents\Visual Studio 2015\Projects\MYSolution_Socket_PracticeExam\SocketTraining\bin\Debug\SocketTraining.exe.config
+C:\Users\Søren\Documents\Visual Studio 2015\Projects\MYSolution_Socket_PracticeExam\SocketTraining\bin\Debug\SocketTraining.exe
+C:\Users\Søren\Documents\Visual Studio 2015\Projects\MYSolution_Socket_PracticeExam\SocketTraining\bin\Debug\SocketTraining.pdb
+C:\Users\Søren\Documents\Visual Studio 2015\Projects\MYSolution_Socket_PracticeExam\SocketTraining\obj\Debug\SocketTraining.exe
+C:\Users\Søren\Documents\Visual Studio 2015\Projects\MYSolution_Socket_PracticeExam\SocketTraining\obj\Debug\SocketTraining.pdb
